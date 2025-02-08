@@ -1,7 +1,7 @@
 # Contactly
 
 ## Overview
-**Contactly** is a full-stack contact management system that allows users to securely store, manage, and retrieve contact information. It features **user authentication**, **JWT-based authorization**, and **CRUD operations** for contacts. The backend is built with **Node.js, Express, and MongoDB**, providing a scalable and efficient solution.
+**Contactly** is a  contact management system that allows users to securely store, manage, and retrieve contact information. It features **user authentication**, **JWT-based authorization**, and **CRUD operations** for contacts. The backend is built with **Node.js, Express, and MongoDB**, providing a scalable and efficient solution.
 
 ## Features
 - Secure user authentication with **JWT authorization**
