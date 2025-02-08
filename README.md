@@ -29,7 +29,7 @@ npm install express bcrypt jsonwebtoken nodemon mongoose dotenv express-async-ha
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/contactly.git
+   https://github.com/SanyamWadhwa07/Contactly.git
    cd contactly
    ```
 2. **Install dependencies:**
