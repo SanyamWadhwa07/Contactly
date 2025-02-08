@@ -19,7 +19,7 @@ To run this project, ensure you have the following installed:
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/contactly.git
+   [git clone https://github.com/your-username/contactly.git](https://github.com/SanyamWadhwa07/Contactly.git)
    cd contactly
    ```
 2. **Install dependencies:**
