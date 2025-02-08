@@ -75,6 +75,4 @@ npm install express bcrypt jsonwebtoken nodemon mongoose dotenv express-async-ha
 ## License
 This project is licensed under the **MIT License**.
 
----
-Feel free to contribute, open issues, or suggest improvements! 🚀
 
