@@ -15,11 +15,21 @@ To run this project, ensure you have the following installed:
 - **Node.js** (v14+ recommended)
 - **MongoDB** (local or cloud instance)
 - **npm** or **yarn** (package manager)
+- **nodemon** for automatic server restarts during development
+- **express** for backend routing and API handling
+- **bcrypt** for password hashing and security
+- **jsonwebtoken** for authentication and secure API access
+
+### Install Required Packages
+Run the following command to install all required dependencies:
+```sh
+npm install express bcrypt jsonwebtoken nodemon mongoose dotenv express-async-handler cors
+```
 
 ## Installation
 1. **Clone the repository:**
    ```sh
-   [git clone https://github.com/your-username/contactly.git](https://github.com/SanyamWadhwa07/Contactly.git)
+   git clone https://github.com/your-username/contactly.git
    cd contactly
    ```
 2. **Install dependencies:**
@@ -30,11 +40,15 @@ To run this project, ensure you have the following installed:
    ```env
    ACCESS_TOKEN_SECRET=your_jwt_secret
    MONGO_URI=your_mongodb_connection_string
-   PORT=at port on which you want to run
+   PORT=at port at which you want to run
    ```
 4. **Run the server:**
    ```sh
    npm start
+   ```
+   Or if using **nodemon**:
+   ```sh
+   npm run dev
    ```
 
 ## API Endpoints
@@ -61,4 +75,6 @@ To run this project, ensure you have the following installed:
 ## License
 This project is licensed under the **MIT License**.
 
+---
+Feel free to contribute, open issues, or suggest improvements! 🚀
 
