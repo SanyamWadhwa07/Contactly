@@ -30,6 +30,7 @@ To run this project, ensure you have the following installed:
    ```env
    ACCESS_TOKEN_SECRET=your_jwt_secret
    MONGO_URI=your_mongodb_connection_string
+   PORT=at port on which you want to run
    ```
 4. **Run the server:**
    ```sh
